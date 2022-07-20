@@ -1,3 +1,6 @@
 [submodule "pizza-planet-ui"]
 	path = ui
 	url = https://github.com/ioet/pizza-planet-ui
+[submodule "ui"]
+	path = ui
+	url = https://github.com/ioet/pizza-planet-ui
