@@ -1,0 +1,7 @@
+rails new project-name --api
+
+rails g scaffold Name attributes (Models Routes and Controllers)
+rails g resource Model attributes (Just the model ?)
+rails g migration MigrationName
+
+rails db:migrate -> apply changes to the database
